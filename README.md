@@ -25,4 +25,4 @@ This **Power BI Sales Dashboard** provides an interactive visualization of key s
 1. **Clone the Repository**  
    Run the following command in your terminal:
    ```sh
-   git clone https://github.com/your-actual-username/PowerBI-Sales-Dashboard.git
+   git clone https://github.com/Hareesh003/PowerBI-Sales-Dashboard.git
